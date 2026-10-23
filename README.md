@@ -124,7 +124,7 @@ Only selected paths are shown; this is **not** an exhaustive file tree.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Asim-Shah-2004/medicine-app.git
+git clone https://github.com/purav-12345/Medical-Application.git
 cd medicine-app
 ```
 
@@ -197,26 +197,6 @@ The repository's existing README lists the following *intended* endpoint paths. 
 
 When the route implementation is confirmed, add JSON request/response examples, authentication requirements, and error codes here.
 
-## 📸 Screenshots and demo
-
-Add screenshots from the **running app**, rather than mockups presented as real screens. Recommended views:
-
-| Welcome / Login | Patient Dashboard | Appointment Flow |
-|:--:|:--:|:--:|
-| _Add screenshot_ | _Add screenshot_ | _Add screenshot_ |
-
-| Medical Records | Provider Workspace | Emergency / Chat |
-|:--:|:--:|:--:|
-| _Add screenshot_ | _Add screenshot_ | _Add screenshot_ |
-
-After adding images under `docs/screenshots/`, replace placeholders with Markdown such as:
-
-```md
-![Patient dashboard](docs/screenshots/patient-dashboard.png)
-```
-
-For demonstrations, consider adding a short screen recording or GIF showing login, navigation, and one complete user workflow.
-
 ## 🔒 Privacy and security considerations
 
 Medical data is sensitive. Before any real-world deployment:
@@ -243,20 +223,11 @@ Potential future improvements (not claims of existing functionality):
 - [ ] Add screenshots, a product demo, and continuous integration.
 - [ ] Evaluate AI-assisted experiences with safety and quality checks before releasing them to users.
 
-## 🤝 Contributing
-
-Issues and pull requests are welcome. For substantial changes, open an issue to discuss scope first. Keep credentials and personal health information out of commits, tests, and issue reports.
 
 ## 📄 License
 
 **License not verified.** Review the repository for a published license file before stating reuse or redistribution terms.
 
-## 🔗 Project
-
-- **Repository:** [Asim-Shah-2004/medicine-app](https://github.com/Asim-Shah-2004/medicine-app)
-- **Source of truth:** Application source code and runtime behavior should take precedence over aspirational feature descriptions.
-
----
 
 <div align="center">
 
