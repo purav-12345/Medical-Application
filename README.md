@@ -24,10 +24,8 @@
 
 The project is intended as a **development/prototype system**, not a clinically validated or production-certified healthcare product.
 
-> **Repository status:** The sections below distinguish the *documented project scope* from technologies confirmed in the code/configuration. Some features described in the original repository README have not been independently verified end-to-end. Notably, the Expo app configuration still uses the name `vidya-setu`; review branding before release.
 
 ## ✨ Project scope and features
-
 The repository's existing project documentation describes the following feature areas. Availability and completeness should be checked against the current running implementation.
 
 | Area | Described capabilities | Intended users |
